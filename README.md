@@ -1,4 +1,4 @@
-This is an archive of Takagg's Genshin Impact Helper code repo. This an archive of June 8th, 2021 repo. Using any of this code with Github Actions is obviously use at your own risk.
+This is an archive of Takagg's Genshin Impact Helper code repo. This an archive of the June 8th, 2021 repo. Using any of this code with Github Actions is obviously use at your own risk.
 
 # Genshin Impact Check-In Helper
 
