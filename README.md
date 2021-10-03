@@ -1,3 +1,5 @@
+#This is an archive of Takagg's Genshin Impact Helper code repo. This an archive of June 8th, 2021 repo. Using any of this code with Github Actions is obviously use at your own risk.
+
 # Genshin Impact Check-In Helper
 
 This repo will summarise all the possible methods for auto check-in. If you found this website from my YouTube (taka gg), that method (Github Actions) is **no longer advisible** as it is against Github Terms of Service (botting) when you are only registering account to use the Github actions.
