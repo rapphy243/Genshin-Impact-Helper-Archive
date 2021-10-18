@@ -8,9 +8,9 @@ The auto check-in feature is for [Genshin Impact Web Daily Check-In](https://web
 
 ## ALTERNATIVE METHOD (Much safer)
 
-[Wayscript](https://github.com/am-steph/genshin-impact-helper/wiki/Wayscript)
+[Wayscript](https://am-steph.github.io/wayscript-login-helper/) New Link
 
-[Heroku](https://github.com/am-steph/genshin-impact-helper/tree/heroku)
+[Heroku](https://github.com/OtameganeMinh/genshin-impact-helper-heroku) New Link
 
 [Run locally on PC/Raspberry PI](https://github.com/napkatti/genshin-impact-helper/)
 
