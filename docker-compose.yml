@@ -9,4 +9,4 @@ services:
         container_name: genshin-helper #Name container name
         environment:
             OS_COOKIE: 'YOUR_COOKIE_FOR_GENSHIN'
-            DISCORD_WEBHOOK: Discordwebhookurl #Not Required
+            DISCORD_WEBHOOK: DISCORDWEBHOOK #Not Required
