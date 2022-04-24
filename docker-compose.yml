@@ -9,4 +9,5 @@ services:
         container_name: genshin-helper #Name container name
         environment:
             OS_COOKIE:
-            DISCORD_WEBHOOK:
+            DISCORDWEBHOOK:
+            
