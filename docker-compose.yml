@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+  genshin-impact-helper:
+        build:
+            context: ./
+            dockerfile: ./Dockerfile
+        image: rapphy243/genshin-helper #Tag conainer
+        container_name: genshin-helper #Name container name
+        environment:
+            OS_COOKIE: 'YOUR_COOKIE_FOR_GENSHIN'
+            DISCORD_WEBHOOK: Discordwebhookurl #Not Required
