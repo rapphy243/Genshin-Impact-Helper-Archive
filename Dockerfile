@@ -7,4 +7,4 @@ WORKDIR /app
 ADD . /app
 RUN pip3 install -r requirements.txt && rm requirements.txt
 USER app
-CMD ["python3", "docker.py" ]
+CMD ["python3", "genshin-os.py" ]
